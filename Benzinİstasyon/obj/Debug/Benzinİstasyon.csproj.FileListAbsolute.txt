@@ -1,0 +1,10 @@
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\bin\Debug\Benzinİstasyon.exe.config
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\bin\Debug\Benzinİstasyon.exe
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\bin\Debug\Benzinİstasyon.pdb
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\obj\Debug\Benzinİstasyon.csprojAssemblyReference.cache
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\obj\Debug\Benzinİstasyon.Form1.resources
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\obj\Debug\Benzinİstasyon.Properties.Resources.resources
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\obj\Debug\Benzinİstasyon.csproj.GenerateResource.cache
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\obj\Debug\Benzinİstasyon.csproj.CoreCompileInputs.cache
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\obj\Debug\Benzinİstasyon.exe
+C:\Users\barış\Desktop\c# projelerim\Benzinİstasyon\obj\Debug\Benzinİstasyon.pdb
